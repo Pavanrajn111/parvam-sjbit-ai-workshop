@@ -1,0 +1,14 @@
+AI - Think like Human, Act like Human & Work like Human (Auto-Driven Cars, Chatbot)
+ML - Giving Data as the input for predicting the output (Rain Prediction)
+DL - Model Training w.r.t media like images & videos (CNN - Computer Vision)
+Generative AI - Creating a new things like text, code, images, etc (ChatGPT, Gemini, Deepseek, Claude AI)
+
+AI Development Workflow
+1) Problem Statement
+2) Write a clear prompt or comment
+3) AI generates the code suggestion
+4) Test the code or execute the code
+5) Refine up with follow-up prompts
+6) Final working solution
+
+Ctrl + Alt + B - Open Github Co-pilot
